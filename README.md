@@ -17,9 +17,9 @@ I like the whole path of an AI product: collecting the data, training the model,
 
 | Project | What it does | Built with | Links |
 |---|---|---|---|
-| **Mataf · مطاف** | Describe a Hajj or Umrah trip in your own words; a team of agents plans flights, hotel, transport and budget, explains every choice and re-plans when things change. | Next.js · LangGraph · TypeScript | [Live demo](https://sadeemai.github.io/mataf/) · [Code](https://github.com/SadeemAi/mataf) |
-| **RISSAM · رِسام** | Parents and specialists follow a child's drawings over time. Seven agents link what was drawn to what the child said, with cited sources, human review and no diagnosis. | FastAPI · LangGraph · RAG · React | [Live demo](https://sadeemai.github.io/rissam/) · [Code](https://github.com/SadeemAi/rissam) |
-| **SADA · صدى** | Weekly voice check-ins in Arabic dialect: what you say, how you say it, and how it changes over weeks, with a rule-based safety layer first. | Next.js · Web Audio · TypeScript | [Live demo](https://sadeemai.github.io/sada/) · [Code](https://github.com/SadeemAi/sada) |
+| **Mataf · مطاف** | Describe a Hajj or Umrah trip in your own words; a team of agents plans flights, hotel, transport and budget, explains every choice and re-plans when things change. | Next.js · LangGraph · TypeScript | [Live demo](https://sadeemai.github.io/mataf/) |
+| **RISSAM · رِسام** | Parents and specialists follow a child's drawings over time. Seven agents link what was drawn to what the child said, with cited sources, human review and no diagnosis. | FastAPI · LangGraph · RAG · React | [Live demo](https://sadeemai.github.io/rissam/) |
+| **SADA · صدى** | Weekly voice check-ins in Arabic dialect: what you say, how you say it, and how it changes over weeks, with a rule-based safety layer first. | Next.js · Web Audio · TypeScript | [Live demo](https://sadeemai.github.io/sada/) |
 | **Hakaya · حكايا** | An AI agent writes a story for each child, and it only moves on when the webcam sees the child really move. I built the movement model (MediaPipe Pose → LSTM, 22,459 pose windows). | MediaPipe · TensorFlow · LangGraph · FastAPI | [Play the teaser](https://sadeemai.github.io/hakaya/) · [Case study](https://sadeemai.github.io/#hakaya) |
 | **DermaScan** | Upload a photo of a skin lesion and get an analysis across 7 lesion types, with patient, doctor and admin roles. | TensorFlow · EfficientNetB0 · PHP | [Live demo](https://sadeemai.github.io/dermascan/) · [Case study](https://sadeemai.github.io/#dermascan) |
 
