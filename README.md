@@ -29,7 +29,7 @@ Every live demo opens instantly with no sign-up: Mataf, RISSAM and SADA are stat
 
 - **Agentic AI Bootcamp · SDA (Saudi Digital Academy)**, Aug – Sep 2026. Designing, building and evaluating LLM-based multi-agent systems. Capstone: Hakaya, team of four.
 - **AI Intern · Ministry of Human Resources and Social Development**, 6 months. Reviewed AI use cases against policy, data protection and responsible-AI principles, and documented AI governance guidelines.
-- **BSc Artificial Intelligence · University of Bisha**. GPA 4.54 / 5.00. Graduation project: DermaScan, team of six.
+- **BSc Artificial Intelligence · University of Bisha**. GPA 4.56 / 5.00. Graduation project: DermaScan, team of six.
 
 ## Toolbox
 
