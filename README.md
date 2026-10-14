@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Sadeem Aljufran, AI Engineer: agentic AI and computer vision. Open to entry-level AI Engineer roles in Riyadh." width="100%">
+  <img src="https://sadeemai.github.io/assets/banner.svg" alt="Sadeem Aljufran, AI Engineer: agentic AI and computer vision. Open to entry-level AI Engineer roles in Riyadh." width="100%">
 </p>
 
 <p align="center">
